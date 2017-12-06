@@ -1,0 +1,52 @@
+Ciências
+--NOTAS: 
+Alice: 62.8
+Ana Clara: 95.61
+Ana Luiza: 81.32
+Arthur: 57.49*
+Beatriz: 59.68*
+Bernardo: 45.88*
+Daniel: 62.87
+Davi: 38.54*
+Enzo: 86.35
+Felipe: 80.2
+Gabriel: 68.64
+Giovanna: 41.58*
+Guilherme: 95.7
+Gustavo: 79.35
+Heitor: 54.56*
+Helena: 59.91*
+Heloísa: 71.98
+Henrique: 70.48
+Isabella: 84.23
+Isadora: 66.81
+João Lucas: 98.32
+João Pedro: 56.52*
+Júlia: 44.9*
+Lara: 8.84*
+Laura: 90.53
+Lorena: 27.65*
+Lorenzo: 70.65
+Lucas: 47.76*
+Luiza: 55.23*
+Lívia: 77.41
+Manuela: 42.9*
+Maria Clara: 40.73*
+Maria Eduarda: 55.48*
+Maria Luiza: 87.83
+Mariana: 28.05*
+Matheus: 67.45
+Miguel: 46.0*
+Murilo: 68.06
+Nicolas: 4.69*
+Pedro: 59.01*
+Pedro Henrique: 71.5
+Rafael: 28.99*
+Rafaela: 28.5*
+Samuel: 58.38*
+Sarah: 6.78*
+Sophia: 52.75*
+Theo: 82.06
+Valentina: 44.74*
+Vitor: 55.15*
+Yasmin: 70.31

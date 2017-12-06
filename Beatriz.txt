@@ -1,0 +1,9 @@
+NOME: Beatriz
+NASCIMENTO: 2005-05-10
+CPF: 745.195.251-30
+BOLETIM
+Português: 0.04*
+Matemática: 14.59*
+História: 22.9*
+Geografia: 25.65*
+Ciências: 59.68*
